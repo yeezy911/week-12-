@@ -19,7 +19,7 @@
 # print(1 < x < 20)         # True
 
 
-# Practice Problems:
+# Practice Problems:A
 #scpre / grade checker
 
 grade = int(input("What is your score?"))
